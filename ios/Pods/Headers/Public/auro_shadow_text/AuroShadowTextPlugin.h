@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/auro_shadow_text/ios/Classes/AuroShadowTextPlugin.h
